@@ -1,4 +1,4 @@
-**calculator**
+## calculator
 
       This is simple calculator built using HTML, CSS, and JavaScript. Which is capable of performing arithmetic calculations.
 
@@ -9,7 +9,9 @@
 ## 🛠️ Built With
 
 HTML5
+
 CSS3
+
 JavaScript
 
-  ## Note>I have build this to test my html,css and js.
+   Note>I have build this to test my html,css and js.
